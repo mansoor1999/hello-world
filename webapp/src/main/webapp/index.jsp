@@ -33,6 +33,15 @@
       required
     />
     <br />
+    <label for="Gender"><b>Enter Gender</b></label>
+    <input
+      type="text"
+      placeholder="Male or Female"
+      name="Gender"
+      id="Gender"
+      required
+    />
+    <br />
 
     <label for="psw"><b>Password</b></label>
     <input

@@ -36,7 +36,7 @@
     <label for="Gender"><b>Enter Gender</b></label>
     <input
       type="text"
-      placeholder="Male or Female"
+      placeholder="Male/Female"
       name="Gender"
       id="Gender"
       required
